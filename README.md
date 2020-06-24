@@ -20,3 +20,4 @@ Procurarei,conforme evoluo, melhorar e utilizar algoritmos para maximizar a perf
 ## Projetos:
 Lista de projetos feitos conforme avanço na área de ciência de dados:
 * [Análise de dados do Airbnb em Berlim](https://github.com/joaovictorfonseca/data_science_joao_fonseca/blob/master/Analisando_os_dados_do_Airbnb_em_Berlim.ipynb)
+* [Análise da violência no Estado do Rio 1991-2019](https://github.com/joaovictorfonseca/data_science/blob/master/Analisando_a_Viol%C3%AAncia_no_Rio_de_Janeiro.ipynb)
